@@ -200,4 +200,9 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_varzesh_tv_logo.png" group-title="Iran", IRIB Varzesh 
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="B0HNH5B25Z" tvg-name="India tour of New Zealand 2026 - 4th ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42ad86af-a9b7-4eb6-9d8a-e503d08461a8/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 4th ODI - New Zealand vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9daab9f2057ca46ae108997a0886b434:220b4c0284b9a045c49c8cf1ddbb49a8
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6learkrmkk/out/v1/ea7695de219f46d1bf645bd975854712/cenc.mpd
