@@ -70,14 +70,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="Sports", Premier Sports 1
+#EXTINF:0 tvg-logo="https://www.premiersports.com/img/logo.svg" group-title="Sports", Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="Sports", Premier Sport 2
+#EXTINF:0 tvg-logo="https://www.premiersports.com/img/logo.svg" group-title="Sports", Premier Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -85,7 +85,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6s
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 tvg-id="
-SPORTDIGITAL" tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SD_HDSenderLOutlWEB_45.webp" group-title="ALL SPORTS",
+SPORTDIGITAL" tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/channels/20231011125447_sdf2_logo.png" group-title="ALL SPORTS", sportdigital
 SPORTDIGITAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -116,11 +116,11 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://xxx.png" group-title="global SPORT", D Sport 1
+#EXTINF:-1 tvg-logo="https://spordeporcom.teimg.com/spordepor-com/uploads/2023/03/ds.png" group-title="global SPORT", Depor Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-#EXTINF:-1 tvg-logo="https://xxx.png" group-title="global SPORT", D Sport 2
+#EXTINF:-1 tvg-logo="https://spordeporcom.teimg.com/spordepor-com/uploads/2023/03/ds.png" group-title="global SPORT", Depor Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
@@ -137,17 +137,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Sports",PREMIER SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV" tvg-logo="" group-title="aiv",NBA TV
+#EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="aiv",NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-#EXTINF:-1 tvg-id="nbatv2" tvg-name="NBA TV 2" tvg-logo="" group-title="aiv",NBA TV 2
+#EXTINF:-1 tvg-id="nbatv2" tvg-name="NBA TV 2" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="aiv",NBA TV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
@@ -179,30 +174,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-#EXTINF:-1 tvg-id="nflnetwork" tvg-name="NFL Network" tvg-logo="" group-title="aiv",NFL Network
+#EXTINF:-1 tvg-id="nflnetwork" tvg-name="NFL Network" tvg-logo="https://static.www.nfl.com/league/apps/web/global/logos/logo-league-redzone-primarylight.svg" group-title="aiv",NFL Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
 https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
-#EXTINF:-1 tvg-id="hboboxing" tvg-name="HBO Boxing" tvg-logo="" group-title="aiv",HBO Boxing
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
-#EXTINF:-1 tvg-id="ufc" tvg-name="UFC" tvg-logo="" group-title="uk",UFC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/a7sats/picon/refs/heads/main/htspor.png" group-title="global SPORT",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/IRIB_TV3_LOGO.png" group-title="Iran", TV 3 Iran 
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_varzesh_tv_logo.png" group-title="Iran", IRIB Varzesh 
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="B0HNH5B25Z" tvg-name="India tour of New Zealand 2026 - 4th ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42ad86af-a9b7-4eb6-9d8a-e503d08461a8/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 4th ODI - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9daab9f2057ca46ae108997a0886b434:220b4c0284b9a045c49c8cf1ddbb49a8
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6learkrmkk/out/v1/ea7695de219f46d1bf645bd975854712/cenc.mpd
