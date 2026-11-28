@@ -49,28 +49,26 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="ALL SPORTS",TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png" group-title="ALL SPORTS",TNT SPORTS 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:0 tvg-logo="https://www.premiersports.com/img/logo.svg" group-title="Sports", Premier Sports 1
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Mu-dE2VP1YVbjrIXeLkPrwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="ALL SPORTS",Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:0 tvg-logo="https://www.premiersports.com/img/logo.svg" group-title="Sports", Premier Sports 2
+#EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.YQrTPNFHwz3ogxIuVP5BNAHaA_?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="ALL SPORTS",Premier Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="
-SPORTDIGITAL" tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/channels/20231011125447_sdf2_logo.png" group-title="ALL SPORTS", sportdigital
-SPORTDIGITAL
+#EXTINF:-1 tvg-id="Sportdigital" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/08111141/Sportdigital-logo-2025-274x225.jpg",Sportdigital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -88,12 +86,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="aiv",NBA TV
+#EXTINF:-1 tvg-id="nbatv" tvg-name="NBA TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Zcg7JCGOY_tHJQ5B9cmd3wHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="aiv",NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-#EXTINF:-1 tvg-id="nbatv2" tvg-name="NBA TV 2" tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg" group-title="aiv",NBA TV 2
+#EXTINF:-1 tvg-id="nbatv2" tvg-name="NBA TV 2" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Zcg7JCGOY_tHJQ5B9cmd3wHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="aiv",NBA TV 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
